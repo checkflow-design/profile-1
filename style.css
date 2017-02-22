@@ -1,0 +1,141 @@
+                      /*GENERAL*/
+body {
+    -webkit-font-smoothing: antialiased;
+    font-family: "proxima-nova", sans-serif;
+    background: #F7F7F7;
+    font-weight: 600;
+    font-size: 15px;
+    color:#666666;
+    margin:0;
+    line-height: 1.5em;
+
+  }
+
+.red_mesmidis
+{
+  color: #EF4E42;
+
+}
+H1 {
+  font-size:30px;
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  text-align: center;
+  margin:10px 0 0 0;
+}
+h2{
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+
+p {
+  color:#666666;
+  text-align: justify;
+  padding:0 auto 10 auto;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DD5555;
+  text-decoration: none;
+}
+
+.container {
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+
+}
+
+
+                        /*HEADER*/
+#header a
+{
+  background-color: #EF4E42;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+  font:small-caps;
+}
+
+#header a:hover
+{
+  background-color: #FF7368;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+#header img
+{
+  height: 50%;
+  width: 50%;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center{
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+#img-profile {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #cccccc;
+}
+
+                        /* SOCIAL MEDIA*/
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+                        /* My prefers recipes */
+.size_30
+{
+  height: 100%;
+  width:
+  100%;
+}
+
+.text_recipe
+{
+  text-align: left;
+  margin-top: 0;
+}
+
